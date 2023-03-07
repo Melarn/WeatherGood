@@ -1,0 +1,7 @@
+name: WeatherGood
+version: '${project.version}'
+main: me.melarnoff.weathergood.WeatherGood
+api-version: 1.19
+commands:
+  weathergood:
+    description: set weather good
